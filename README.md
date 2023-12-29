@@ -1,1 +1,1 @@
-# CardioRiskMeter
+Cardio Risk Meter is a Cardiovascular Disease Prediction web application designed to empower individuals in proactively managing their heart health. The website leverages state-of-the-art machine learning algorithms to offer users personalized risk assessments for cardiovascular diseases.
